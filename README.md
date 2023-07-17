@@ -37,7 +37,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-<a href="http://portfolioil.thecapz.com/"><img src="https://img.shields.io/badge/-portfolioil.thecapz.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="http://authorportfolio.nixie.com/"><img src="https://img.shields.io/badge/-authorportfolio.nixie.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.instagram.com/zauzj/"><img src="https://img.shields.io/badge/-@zauzj-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:kzkzaj@gmail.com"><img src="https://img.shields.io/badge/-kzkzaj@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
